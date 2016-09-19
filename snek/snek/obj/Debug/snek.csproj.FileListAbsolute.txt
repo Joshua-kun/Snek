@@ -1,0 +1,9 @@
+C:\snake\snek\snek\bin\Debug\snek.exe.config
+C:\snake\snek\snek\bin\Debug\snek.exe
+C:\snake\snek\snek\bin\Debug\snek.pdb
+C:\snake\snek\snek\obj\Debug\snek.csprojResolveAssemblyReference.cache
+C:\snake\snek\snek\obj\Debug\snek.exe
+C:\snake\snek\snek\obj\Debug\snek.pdb
+C:\Snek\snek\snek\bin\Debug\snek.exe.config
+C:\Snek\snek\snek\obj\Debug\snek.exe
+C:\Snek\snek\snek\obj\Debug\snek.pdb
